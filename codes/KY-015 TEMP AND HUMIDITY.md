@@ -33,3 +33,11 @@ while True:
 
 ## Fecha de revisión:  
 ## 99/99/2023
+
+# PRUEBAS
+
+![](Imagenes/KY015.jpg)
+
+
+# CONCLUSIONES
+La utilización de este sensor es bastante compleja pero es de mucha utilidad en la vida cotidiana.
