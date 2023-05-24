@@ -1,11 +1,19 @@
 #Sensor touch KY-036
 #Benitez Solorzano Paola
 
-from machine import Pin, ADC
+import machine
 import time
 
-sensor = ADC(Pin(16))
+# Configurar el pin de entrada del sensor
+sensor_pin = machine.Pin(3, machine.Pin.IN)
 
+# Función para manejar el evento de pulsación
+def handle_touch(pin):
+    print("¡Tocado!")
+
+# Configurar el evento de interrupción para detectar el toque
+sensor_pin.irq(trigger=machine.Pin.IRQ_RISING, handler=handle_touch)
+
+# Bucle principal
 while True:
-    print(sensor.read_u16())% 2 )
     time.sleep(1)
