@@ -6,7 +6,7 @@
 ### Con el sensor KY-015 medir la temperatura y humedad del ambiente.
 
 # SENSOR: 
-### KY-015
+### KY-018
 
 # CÓDIGO
 
