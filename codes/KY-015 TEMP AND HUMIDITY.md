@@ -36,8 +36,7 @@ while True:
 
 ### PRUEBAS
 
-![](Imagenes/Portada1.jpg)
-
+![](Imagenes/KY015.jpg)
 
 # CONCLUSIONES
 La utilización de este sensor es bastante compleja pero es de mucha utilidad en la vida cotidiana.
