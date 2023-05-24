@@ -34,4 +34,4 @@ while True:
 
 # PRUEBAS
 
-![](https://www.snapon.co.za/images/thumbs/default-image_550.png)
+![](Imagenes/KY015.jpg)
