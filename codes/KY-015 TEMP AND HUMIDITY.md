@@ -36,7 +36,7 @@ while True:
 
 # PRUEBAS
 
-![](Imagenes/KY015.jpg)
+![](Imagenes/Portada1.jpg)
 
 
 # CONCLUSIONES
