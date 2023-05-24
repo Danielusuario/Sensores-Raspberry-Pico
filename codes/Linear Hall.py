@@ -1,20 +1,20 @@
 #Sensor Linear hall KY-024
 #Benitez Solorzano Paola
 
-from machine import Pin,ADC
-import utime
+import machine
+import time
 
-#Select ADC input 0 (GPIO26)
-ADC_ConvertedValue = machine.ADC(0)
-DIN = Pin(21,Pin.IN)
-conversion_factor = 3.3 / (65535)
+# Configurar el pin ADC0 (GP26) como entrada analógica
+adc = machine.ADC(26)
 
+while True:
+    # Leer el valor analógico del pin ADC0 y convertirlo a voltaje
+    sensor_value = adc.read_u16()
+    voltage = sensor_value * 3.3 / 65535  # Rango de conversión de 16 bits
 
-while True :
-    if(DIN.value() == 1) :
-        print("The Magnet is far!!!")
-    else :
-        print("The Magnet is near!!!")
-        AD_value = ADC_ConvertedValue.read_u16() * conversion_factor
-        print("The current Gas AD value = ",AD_value ,"V")
-    utime.sleep(0.5)
+    # Imprimir el valor analógico y el voltaje en la consola
+    print("Valor analógico:", sensor_value)
+    print("Voltaje:", voltage, "V")
+
+    # Esperar 1 segundo antes de la siguiente lectura
+    time.sleep(1)
