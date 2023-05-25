@@ -22,5 +22,7 @@ while True:
 
 # PRUEBAS
 
-![]()
+![Image](https://github.com/Danielusuario/Sensores-Raspberry-Pico/blob/main/Imagenes/KY-005IrEmission.jpg)
 
+# CONCLUSIÓN
+Este sensor fue algo sencillo, aunque en un principio se conectaba el sensor pero no arrojaba resultados, después de revisar el cableado, nos percatamos de que el error se encontraba en un cable mal conectado, por lo cual después de corregirlo, el sensor funciono con exito. 
