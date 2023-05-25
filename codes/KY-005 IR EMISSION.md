@@ -1,5 +1,26 @@
-from machine import Pin import utime
+# Depto de Sistemas y Computación
+# Ing. En Sistemas Computacionales
+# SISTEMAS PROGRAMABLES 23a
 
-emisor = Pin(18, machine.Pin.OUT)
+# SENSOR: KY-005 IR EMISSION
 
-receptor = Pin(4, machine.Pin.IN) a=1 while True: emisor.value(1) print(str(a)+ " Receptor: "+ str(receptor.value()) + " - emisor: "+" "+str(emisor.value())) receptor.value(0) utime.sleep(1)
+# CÓDIGO
+```python
+from machine import Pin
+from utime import sleep_ms
+ir=Pin(21,Pin.IN)
+while True:
+    try:
+        print(ir.value())
+        sleep_ms(100)
+        
+    except KeyboardInterrupt:
+        break
+```
+
+## Autor (es): Rodriguez Ledesma Ricardo
+
+# PRUEBAS
+
+![]()
+
