@@ -26,8 +26,9 @@ utime.sleep(0.1)
 
 # PRUEBAS
 
-![](https://github.com/Danielusuario/Sensores-Raspberry-Pico/blob/main/Imagenes/KY-028%20DIGITAL%20TEMPERATURE.jpg)
-![](https://github.com/Danielusuario/Sensores-Raspberry-Pico/blob/main/Imagenes/KY-028%20DIGITAL%20TEMPERATURE1.jpg)
+![](https://github.com/Danielusuario/Sensores-Raspberry-Pico/blob/main/Imagenes/KY-026%20FLAME.jpg)
+![](https://github.com/Danielusuario/Sensores-Raspberry-Pico/blob/main/Imagenes/KY-026%20FLAME1.jpg)
+![](https://github.com/Danielusuario/Sensores-Raspberry-Pico/blob/main/Imagenes/KY-026%20FLAME2.jpg)
 
 ## REPOSITORIO: 
 > https://github.com/Danielusuario/Sensores-Raspberry-Pico
