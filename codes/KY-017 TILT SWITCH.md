@@ -42,4 +42,12 @@ detect_mercury()
 
 # PRUEBAS
 
-![](Imagenes/KY015.jpg)
+## Circuito
+![Image](https://github.com/Danielusuario/Sensores-Raspberry-Pico/blob/main/Imagenes/KY-017%20TILT%20SWITCH.jpg)
+
+## Corrida
+![Image](https://github.com/Danielusuario/Sensores-Raspberry-Pico/blob/main/Imagenes/KY-017%20TILT%20SWITCH1.jpg)
+
+# CONCLUSIONES
+De este sensor tuve que buscar un poco mas y como se tenia que incorporar, debido a que es parecido a otros dos de los sensores que estuve utilizando
+es complejo buscar solamente para la pico W porque la mayoria de los codigos son en Arduino o en C.
