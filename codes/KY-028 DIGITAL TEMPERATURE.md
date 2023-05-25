@@ -32,7 +32,7 @@ while True:
 
 # PRUEBAS
 
-![]()
+![](https://github.com/Danielusuario/Sensores-Raspberry-Pico/blob/main/Imagenes/KY-028%20DIGITAL%20TEMPERATURE.jpg)
 
 ## REPOSITORIO: 
 > https://github.com/Danielusuario/Sensores-Raspberry-Pico
