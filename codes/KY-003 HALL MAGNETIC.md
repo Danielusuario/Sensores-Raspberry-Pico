@@ -25,5 +25,8 @@ utime.sleep(1)
 
 # PRUEBAS
 
-![]()
+![Image](https://github.com/Danielusuario/Sensores-Raspberry-Pico/blob/main/Imagenes/KY-003HallMagnetic.jpg)
+
+# CONCLUSIÓN
+Este sensor fue de los mas sencillos, simplemente al conectar el sensor, ya estaba detectando un campo magnetico cerca, debido a que se encontraba el computador cerca del mismo, por lo cual, se logro hacer funcionar el sensor con exito.
 
