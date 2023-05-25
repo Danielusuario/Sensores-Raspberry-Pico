@@ -36,8 +36,12 @@ while True:
 
 ### PRUEBAS
 
-![Imagen prueba 1](Imagenes/KY015.jpg)
-![Imagen prueba 2](Imagenes/KY015.jpg)
+## Circuito
+![Image](https://github.com/Danielusuario/Sensores-Raspberry-Pico/blob/main/Imagenes/KY-015%20TEMP%20AND%20HUMIDITY.jpg)
+
+## Corrida
+![Image](https://github.com/Danielusuario/Sensores-Raspberry-Pico/blob/main/Imagenes/KY-015%20TEMP%20AND%20HUMIDITY%201.jpg)
 
 # CONCLUSIONES
-La utilización de este sensor es bastante compleja pero es de mucha utilidad en la vida cotidiana.
+Fue bastante dificil de utilizar, ademas de hacer que marcara la temperatura y humedad debido a unos errores de sintaxis e instancias de clase
+al momento de usarlo aplique calor pero no marcaba la temperatura.
