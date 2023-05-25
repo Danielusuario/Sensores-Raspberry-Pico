@@ -32,7 +32,7 @@ while True:
 
 ### PRUEBAS
 
-![Imagen prueba 1](Imagenes/KY-020 (BALL SWITCH).png)
+![Imagen prueba 1] (https://github.com/Danielusuario/Sensores-Raspberry-Pico/blob/main/Imagenes/KY-020 (BALL SWITCH).png)
 
 # CONCLUSIONES
 
