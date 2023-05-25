@@ -1,6 +1,11 @@
-#Sensor Linear hall KY-024
-#Benitez Solorzano Paola
+# Depto de Sistemas y Computación
+# Ing. En Sistemas Computacionales
+# SISTEMAS PROGRAMABLES 23a
 
+# SENSOR: KY-024 LINEAR HALL
+
+# CÓDIGO
+```python
 import machine
 import time
 
@@ -18,3 +23,20 @@ while True:
 
     # Esperar 1 segundo antes de la siguiente lectura
     time.sleep(1)
+```
+
+## Autor (es): Benitez Solorzano Paola
+
+# PRUEBAS
+
+![](https://github.com/Danielusuario/Sensores-Raspberry-Pico/blob/main/Imagenes/KY-024%20LINEAR%20HALL.jpg)
+![](https://github.com/Danielusuario/Sensores-Raspberry-Pico/blob/main/Imagenes/KY-024%20LINEAR%20HALL1.jpg)
+
+## REPOSITORIO: 
+> https://github.com/Danielusuario/Sensores-Raspberry-Pico
+
+## FECHA DE REVISION: 
+> 99/99/9999
+
+## CONCLUSION: 
+> Este sensor consiste en colocar algo metalico con el fin de que calculara el valor magnetico que tenia este. En este caso se uso un destornillador para hacer esta practica. 
