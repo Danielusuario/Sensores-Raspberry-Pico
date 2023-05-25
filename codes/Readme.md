@@ -2,47 +2,25 @@
 # Ing. En Sistemas Computacionales
 # SISTEMAS PROGRAMABLES 23a
 
-
-# OBJETIVO  DE LA PRACTICA:
-
-
 # SENSOR: 
+## KY-006 PASSIVE BUZZER
 
 # CÓDIGO
 ```python
-## Depto de Sistemas y Computación
-## Ing. En Sistemas Computacionales
-## SISTEMAS PROGRAMABLES 23a
+from machine import Pin, PWM
+from utime import sleep
 
-## Autor (es): ___________
-
-## Repositorio:  
-
-## Fecha de revisión:  
-## 99/99/2023
-
-
-## Objetivo del programa:
-##   
-
-## TODO: (pendientes sin resolver)
-##
-##
-## In Progress: (resueltos parcialmente)
-##
-##
-## Complete:  (Aun no se realiza).
-##
-##
+ky006 = PWM(Pin(0))
+ky006.freq(500)
+ky006.duty_u16(1000)
+sleep(1)
+ky006.duty_u16(0)
 ```
+
+## Autor (es): CORTES HERNANDEZ YURIDIA SARAY 20210554
 
 # PRUEBAS
 
-![](https://www.snapon.co.za/images/thumbs/default-image_550.png)
-
-![](https://www.snapon.co.za/images/thumbs/default-image_550.png)
+![](KY-006.jpg)
 
 
-
-# CONCLUSIONES
-_esta es conclusión_
