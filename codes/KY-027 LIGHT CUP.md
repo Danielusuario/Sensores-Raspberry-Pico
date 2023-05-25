@@ -36,7 +36,7 @@ measure_light_intensity()
 
 ## Autor (es): ANA LIZETH VILLALPANDO PRIETO
 
-[Repositorio](https://github.com/Danielusuario/Sensores-Raspberry-Pico/)
+[Link del Repositorio](https://github.com/Danielusuario/Sensores-Raspberry-Pico/)
 
 ## Fecha de revisión:  
 ## 99/99/2023
