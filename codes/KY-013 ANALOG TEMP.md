@@ -26,5 +26,9 @@ print("Temperatura: {:.2f}°C".format(temperature))
 
 # PRUEBAS
 
-![]()
+![Image](https://github.com/Danielusuario/Sensores-Raspberry-Pico/blob/main/Imagenes/KY-013AnalogTemp.jpg)
+
+# CONCLUSIÓN
+Este sensor también fue sencillo, ya que funciona como es un sensor de temperatura, simplemente al verificar los cables y el código, al correrlo ya nos habia arrojado un resultado inmediato.
+
 
