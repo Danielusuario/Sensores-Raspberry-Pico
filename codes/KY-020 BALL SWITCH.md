@@ -32,8 +32,8 @@ while True:
 
 ### PRUEBAS
 
-![Imagen prueba 1](Imagenes/KY015.jpg)
-![Imagen prueba 2](Imagenes/KY015.jpg)
+![Imagen prueba 1](Imagenes/KY-020 (BALL SWITCH).png)
 
 # CONCLUSIONES
 
+Fue un sensor sencillo de utilizar, sin embargo al estar realizando el codigo y busquedas habia mas información en procesadores o herramientas como arduino
