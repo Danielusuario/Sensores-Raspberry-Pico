@@ -1,6 +1,11 @@
-#Digital temperature KY-028
-#Benitez Solorzano Paola
+# Depto de Sistemas y Computación
+# Ing. En Sistemas Computacionales
+# SISTEMAS PROGRAMABLES 23a
 
+# SENSOR: KY-028 DIGITAL TEMPERATURE
+
+# CÓDIGO
+```python
 import machine
 import utime
 
@@ -21,5 +26,20 @@ while True:
 
     # Espera 1 segundo antes de la siguiente lectura
     utime.sleep(1)
+```
+
+## Autor (es): Benitez Solorzano Paola
+
+# PRUEBAS
+
+![]()
+
+
+
+
+
+
+
+
 
     
