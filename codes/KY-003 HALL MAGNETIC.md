@@ -1,3 +1,11 @@
+# Depto de Sistemas y Computación
+# Ing. En Sistemas Computacionales
+# SISTEMAS PROGRAMABLES 23a
+
+# SENSOR: KY-003 HALL MAGNETIC
+
+# CÓDIGO
+```python
 from machine import Pin
 import utime
 
@@ -11,3 +19,11 @@ while True:
         print("Ningun campo detectado")
         utime.sleep(1)
 utime.sleep(1)
+```
+
+## Autor (es): Rodriguez Ledesma Ricardo
+
+# PRUEBAS
+
+![]()
+
