@@ -3,7 +3,7 @@
 # SISTEMAS PROGRAMABLES 23a
 
 # OBJETIVO  DE LA PRACTICA:
-### Con el sensor KY-015 medir la temperatura y humedad del ambiente.
+### Con el sensor KY-018 medir la luz / luminiscencia en el ambiente.
 
 # SENSOR: 
 ### KY-018
@@ -34,4 +34,9 @@ while True:
 
 # PRUEBAS
 
-![](Imagenes/KY015.jpg)
+![Image](https://github.com/Danielusuario/Sensores-Raspberry-Pico/blob/main/Imagenes/KY-018%20FOTORESISTOR.png)
+
+# CONCLUSIONES
+La utilización de este sensor no fue sencillo de realizar, pero buscando en diferentes foros y videos se pudo lograr con exito, ademas este es bastante util
+y lo utilizamos en diferentes aparatos tecnologicos sin darnos cuenta.
+
