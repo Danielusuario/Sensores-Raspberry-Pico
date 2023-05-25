@@ -2,7 +2,7 @@
 # Ing. En Sistemas Computacionales
 # SISTEMAS PROGRAMABLES 23a
 
-## SENSOR: KY-040 ROTARY ENCODERS
+## SENSOR: KY-011 TWO COLORS
 ![](https://uelectronics.com/wp-content/uploads/2017/06/Ky-011-V2.jpg)
 
 ## CÓDIGO
