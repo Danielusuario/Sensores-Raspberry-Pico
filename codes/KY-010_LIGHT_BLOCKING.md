@@ -1,6 +1,12 @@
-#KY-010 LIGHT BLOCKING
-#Cortes Hernandez Yuridia Saray
+# Depto de Sistemas y Computación
+# Ing. En Sistemas Computacionales
+# SISTEMAS PROGRAMABLES 23a
 
+## SENSOR: KY-010 LIGHT BLOCKING
+![](https://arduinomodules.info/wp-content/uploads/ky-010_Photo_interrupter_arduino_module.jpg)
+
+## CÓDIGO
+```python
 import machine
 
 # Configura el pin del sensor KY-010
@@ -19,3 +25,19 @@ sensor_pin.irq(trigger=machine.Pin.IRQ_FALLING | machine.Pin.IRQ_RISING, handler
 # Bucle principal
 while True:
     pass
+```
+
+### Autor (es): Cortes Hernandez Yuridia Saray 20210554
+
+## PRUEBAS
+
+![](https://github.com/Danielusuario/Sensores-Raspberry-Pico/blob/main/Imagenes/KY-010.jpg)
+
+## FECHA DE REVISION:
+> 99/99/999
+
+## REPOSITORIO:
+>https://github.com/Danielusuario/Sensores-Raspberry-Pico
+
+## CONCLUSION:
+> Para este saber la funcion como tal y llevarla a cabo para saber si realmente funcionaba fue la dificultad.
