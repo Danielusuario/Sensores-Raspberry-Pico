@@ -21,5 +21,7 @@ while True:
 
 # PRUEBAS
 
-![]()
+![Image](https://github.com/Danielusuario/Sensores-Raspberry-Pico/blob/main/Imagenes/KY-022IrReceiver.jpg)
 
+# CONCLUSIÓN
+Este sensor fue de código corto, en cuanto lo conectamos y lo corrimos, nos detecto una señal infrarroja cerca, por lo cual, esta practica se completo con exito.
