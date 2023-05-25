@@ -34,7 +34,14 @@ while True:
 
 ![]()
 
+## REPOSITORIO: 
+> https://github.com/Danielusuario/Sensores-Raspberry-Pico
 
+## FECHA DE REVISION: 
+> 99/99/9999
+
+## CONCLUSION: 
+> En lo personal, este sensor no se pudo observar mucho de su funcionalidad porque necesita estar en cambios de temperatura muy notables. Como frio o calor.
 
 
 
