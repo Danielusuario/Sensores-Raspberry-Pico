@@ -43,8 +43,12 @@ measure_light_intensity()
 
 ### PRUEBAS
 
-![Imagen prueba 1](Imagenes/KY015.jpg)
-![Imagen prueba 2](Imagenes/KY015.jpg)
+## Circuito
+![Image](https://github.com/Danielusuario/Sensores-Raspberry-Pico/blob/main/Imagenes/KY-027%20LIGHT%20CUP.jpg)
+
+## Corrida
+![Image](https://github.com/Danielusuario/Sensores-Raspberry-Pico/blob/main/Imagenes/KY-027%20LIGHT%20CUP1.jpg)
 
 # CONCLUSIONES
-Un sensor que es de ayuda y me imagino podria ser de aviso en caso de sismos, al momento de realizar la implementacion fue bastante dificil pero con un esfuerzo se pudo lograr
+Un sensor que es de ayuda y me imagino podria ser de aviso en caso de sismos, al momento de realizar la implementacion
+fue bastante dificil pero con un esfuerzo se pudo lograr
