@@ -1,0 +1,10 @@
+
+#Descripcion: Haciendo uso del sensor KY-015 (TEMP AND HUMIDITY),
+#realizar la medicion de la humedad y temperatura
+
+from machine import Pin from dht import DHT12, InvalidChecksum
+
+pin=Pin(16,Pin.IN)
+
+while True: utime.sleep(1) data_dht=DHT12(pin) temp=(data_dht.temperature) humidity=(data_dht.humidity) print("temperature(C):{}
+".format(temp)) print("humidity(%): {}".format(humidity))
